@@ -8,7 +8,7 @@
 
 <br>
 
-Hi I'm Md. Nazmus Saqib Khan, from bangladesh; a fullstack web engineer 🚀.
+Hi I'm Md. Nazmus Saqib Khan, from Bangladesh; a fullstack web engineer 🚀.
 
 **About Me:**
 - 📖 Problem solving enthusiast
